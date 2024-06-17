@@ -1,5 +1,5 @@
 ;Program Description: This program calucates the mean and variance from the data in RAW
-;Program 1.asm
+;Program 2.asm
 INCLUDE Irvine32.inc
 .386
 .model flat, stdcall

@@ -1,5 +1,5 @@
 ; Program Description: This program gives the user a letter grade from the values 0 - 100
-; Program 2.asm
+; Program 3.asm
 
 
 INCLUDE Irvine32.inc
